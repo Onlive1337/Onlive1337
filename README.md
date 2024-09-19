@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is onlive/onswix
 =====================================================================================================================================
 
-Frontend Developer
+Frontend Developer [![wakatime](https://wakatime.com/badge/user/fab3808e-5fd8-4a6a-98c1-389637f9635a.svg)](https://wakatime.com/@fab3808e-5fd8-4a6a-98c1-389637f9635a)
 ------------------
 
 Since childhood I have had a very huge interest in technology and it so happens that now I am programming and studying unix based systems at the same time
